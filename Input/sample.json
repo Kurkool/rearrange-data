@@ -1,0 +1,26 @@
+{
+  "cardTotal": 3,
+  "cards": [
+    {
+      "productName": "debit-card",
+      "cardNumber": "1234567890123456",
+      "accountNumber": "1234567890123",
+      "balance": "55.24",
+      "expire-date": "01092568"
+    },
+    {
+      "productName": "debit-card",
+      "cardNumber": "1234567890123457",
+      "accountNumber": "1234567890123",
+      "balance": "999.89",
+      "expire-date": "01052569"
+    },
+    {
+      "productName": "prepaid-card",
+      "cardNumber": "1234567890123458",
+      "accountNumber": "1234567890123",
+      "balance": "150.00",
+      "expire-date": "01032569"
+    }
+  ]
+}
