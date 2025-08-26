@@ -1,0 +1,27 @@
+{
+  "accountTotal" : 1,
+  "accounts" : [ {
+    "accountNumber" : "1234567890123",
+    "products" : [ {
+      "name" : "prepaid-card",
+      "totalBalance" : "150.00",
+      "details" : [ {
+        "cardNumber" : "1234567890123458",
+        "balance" : "150.00",
+        "expire-date" : "2026-03-01"
+      } ]
+    }, {
+      "name" : "debit-card",
+      "totalBalance" : "1055.13",
+      "details" : [ {
+        "cardNumber" : "1234567890123456",
+        "balance" : "55.24",
+        "expire-date" : "2025-09-01"
+      }, {
+        "cardNumber" : "1234567890123457",
+        "balance" : "999.89",
+        "expire-date" : "2026-05-01"
+      } ]
+    } ]
+  } ]
+}
